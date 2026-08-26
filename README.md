@@ -1,2 +1,2 @@
-# Kill-Your-Family
-None
+# All Hacking Cod In One
+>.ببخشید بخاطر باگ ها مشکل بزرگی در Ghost tracker, Zphisher وجود دارد شما باید این را در مخزن اصلی پیدا کنید
