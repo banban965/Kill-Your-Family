@@ -1,0 +1,13 @@
+[200] https://basalam.com/lock
+[200] https://basalam.com/logos
+[200] https://basalam.com/python
+[200] https://basalam.com/posted
+[200] https://basalam.com/portfolio
+[200] https://basalam.com/posts
+[200] https://basalam.com/price
+[200] https://basalam.com/power
+[200] https://basalam.com/premium
+[200] https://basalam.com/port
+[200] https://basalam.com/pos
+[200] https://basalam.com/premiere
+[200] https://basalam.com/presentation

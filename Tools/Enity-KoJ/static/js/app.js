@@ -1,0 +1,4 @@
+const box=document.getElementById('chatBox'),input=document.getElementById('messageInput'),send=document.getElementById('sendButton');
+function addMessage(text,type){const e=document.createElement('div');e.className='message '+type;e.textContent=text;box.appendChild(e);box.scrollTop=box.scrollHeight}
+async function sendMessage(){const text=input.value.trim();if(!text)return;addMessage(text,'user');input.value='';try{const r=await fetch('/api/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:text})});const d=await r.json();addMessage(d.answer,'bot')}catch{addMessage('Connection error.','bot')}}
+send?.addEventListener('click',sendMessage);input?.addEventListener('keydown',e=>{if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();sendMessage()}});window.toggleSidebar=()=>document.getElementById('sidebar').classList.toggle('show');

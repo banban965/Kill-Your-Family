@@ -1,0 +1,670 @@
+{
+  "chats": [
+    {
+      "user": "Mehrdad",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-23T12:20:33"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T12:29:05"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "اسمت چیه",
+      "answer": "اسم من Enity KoJ است.",
+      "time": "2026-08-23T12:29:11"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چند سالته",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:20"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "خوبی",
+      "answer": "بله، ممنون! من Enity هستم و آماده‌ام کمک کنم.",
+      "time": "2026-08-23T12:29:23"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "کمک",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:36"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "هی",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T12:29:38"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "خوبی",
+      "answer": "بله، ممنون! من Enity هستم و آماده‌ام کمک کنم.",
+      "time": "2026-08-23T12:29:42"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چه خبرا",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:46"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چطور",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:50"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "کی ساختت",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:54"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "که ساخت",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:29:59"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "کی ساختنت",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:30:03"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "G",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:30:06"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-23T12:30:09"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چیکار میکنی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:30:17"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چه کار های میتونی بکنی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:31:19"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چه کارهای میتونی بکنی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:31:30"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "چه کارهایی میتونی بکنی",
+      "answer": "من Enity KoJ هستم و می‌توانم به پرسش‌ها پاسخ بدهم و در کارهای مختلف کمک کنم.",
+      "time": "2026-08-23T12:31:39"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "سلام",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:45:48"
+    },
+    {
+      "user": "Mehrdad",
+      "message": "اسمت چیه",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:45:52"
+    },
+    {
+      "user": "Guest",
+      "message": "هی کونی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:57:58"
+    },
+    {
+      "user": "Guest",
+      "message": "Salam",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:58:11"
+    },
+    {
+      "user": "Guest",
+      "message": "How are you?",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:58:13"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T12:58:27"
+    },
+    {
+      "user": "Guest",
+      "message": "خوبی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T12:58:44"
+    },
+    {
+      "user": "Admin",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T13:26:30"
+    },
+    {
+      "user": "Admin",
+      "message": "خوبی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:26:48"
+    },
+    {
+      "user": "Admin",
+      "message": "have are you",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:27:14"
+    },
+    {
+      "user": "Admin",
+      "message": "Help",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:27:29"
+    },
+    {
+      "user": "Admin",
+      "message": "چطوری",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:27:43"
+    },
+    {
+      "user": "Admin",
+      "message": "راهنما",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:29:26"
+    },
+    {
+      "user": "Guest",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-23T13:53:56"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T13:54:00"
+    },
+    {
+      "user": "Guest",
+      "message": "خوبی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:03"
+    },
+    {
+      "user": "Guest",
+      "message": "چطوری",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:07"
+    },
+    {
+      "user": "Guest",
+      "message": "راهنما",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:16"
+    },
+    {
+      "user": "Guest",
+      "message": "اسمت",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:18"
+    },
+    {
+      "user": "Guest",
+      "message": "Name",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:23"
+    },
+    {
+      "user": "Guest",
+      "message": "what your name",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:54:36"
+    },
+    {
+      "user": "Guest",
+      "message": "اسمت چیه",
+      "answer": "اسم من Enity KoJ است.",
+      "time": "2026-08-23T13:56:07"
+    },
+    {
+      "user": "Guest",
+      "message": "خوبی",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:56:14"
+    },
+    {
+      "user": "Guest",
+      "message": "کمکم کن",
+      "answer": "حتماً، درخواستت را بگو.",
+      "time": "2026-08-23T13:56:28"
+    },
+    {
+      "user": "Guest",
+      "message": "مرسی",
+      "answer": "خواهش می‌کنم!",
+      "time": "2026-08-23T13:56:37"
+    },
+    {
+      "user": "Guest",
+      "message": "Explain New Chat",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:57:04"
+    },
+    {
+      "user": "Guest",
+      "message": "چطور از New Chat استفاده کنم؟",
+      "answer": "New Chat یک گفت‌وگوی تازه در Enity شروع می‌کند.",
+      "time": "2026-08-23T13:57:58"
+    },
+    {
+      "user": "Guest",
+      "message": "سلم",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:58:27"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-23T13:58:32"
+    },
+    {
+      "user": "Guest",
+      "message": "چخبر",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:58:43"
+    },
+    {
+      "user": "Guest",
+      "message": "چه خبر",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:58:49"
+    },
+    {
+      "user": "Guest",
+      "message": "چه‌خبر",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T13:58:54"
+    },
+    {
+      "user": "Guest",
+      "message": "وارد شدن",
+      "answer": "Login lets an existing user enter Enity.",
+      "time": "2026-08-23T14:00:02"
+    },
+    {
+      "user": "Guest",
+      "message": "وارد شون",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T14:00:09"
+    },
+    {
+      "user": "Guest",
+      "message": "واردم شم",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T14:00:19"
+    },
+    {
+      "user": "Guest",
+      "message": "وارد شوم",
+      "answer": "Login lets an existing user enter Enity.",
+      "time": "2026-08-23T14:00:23"
+    },
+    {
+      "user": "Guest",
+      "message": "login",
+      "answer": "Login lets an existing user enter Enity.",
+      "time": "2026-08-23T14:00:41"
+    },
+    {
+      "user": "Guest",
+      "message": "چطوری",
+      "answer": "I don't know yet.",
+      "time": "2026-08-23T14:01:29"
+    },
+    {
+      "user": "Guest",
+      "message": "/HISTORY",
+      "answer": "Chat History displays saved Enity conversations.",
+      "time": "2026-08-23T14:01:50"
+    },
+    {
+      "user": "Guest",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-23T17:23:27"
+    },
+    {
+      "user": "Guest",
+      "message": "مرسی",
+      "answer": "خواهش می‌کنم!",
+      "time": "2026-08-23T17:23:35"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-24T13:09:10"
+    },
+    {
+      "user": "Guest",
+      "message": "مرسی",
+      "answer": "خواهش می‌کنم!",
+      "time": "2026-08-24T13:09:24"
+    },
+    {
+      "user": "Guest",
+      "message": "راهنما",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:09:41"
+    },
+    {
+      "user": "Guest",
+      "message": "/HISTORY",
+      "answer": "Chat History displays saved Enity conversations.",
+      "time": "2026-08-24T13:10:02"
+    },
+    {
+      "user": "Guest",
+      "message": "Help Me",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:10:23"
+    },
+    {
+      "user": "Guest",
+      "message": "اسمت چیه؟",
+      "answer": "اسم من Enity KoJ است.",
+      "time": "2026-08-24T13:11:17"
+    },
+    {
+      "user": "Guest",
+      "message": "کمکم میکنید؟",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:11:42"
+    },
+    {
+      "user": "Guest",
+      "message": "کمکم میکنی؟",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:11:54"
+    },
+    {
+      "user": "Guest",
+      "message": "کمکم می‌کنی؟",
+      "answer": "بله، سؤال یا درخواستت را بگو.",
+      "time": "2026-08-24T13:12:17"
+    },
+    {
+      "user": "Guest",
+      "message": "Tell me about New Chat",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:12:56"
+    },
+    {
+      "user": "Guest",
+      "message": "Tell me about New Chat.",
+      "answer": "New Chat starts a fresh Enity conversation.",
+      "time": "2026-08-24T13:13:07"
+    },
+    {
+      "user": "Guest",
+      "message": "ls Chat History part of Enity?",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:14:32"
+    },
+    {
+      "user": "Guest",
+      "message": "Is Chat History part of Enity?",
+      "answer": "Chat History displays saved Enity conversations.",
+      "time": "2026-08-24T13:15:03"
+    },
+    {
+      "user": "Guest",
+      "message": "Enity",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:29:26"
+    },
+    {
+      "user": "Guest",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-24T13:29:41"
+    },
+    {
+      "user": "Guest",
+      "message": "Verity",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:30:00"
+    },
+    {
+      "user": "Guest",
+      "message": "I'M verty",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:30:22"
+    },
+    {
+      "user": "Guest",
+      "message": "Have Are You",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:30:46"
+    },
+    {
+      "user": "Guest",
+      "message": "What Your Name?",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T13:31:16"
+    },
+    {
+      "user": "Enity",
+      "message": "Hello",
+      "answer": "Hello I'm Enity",
+      "time": "2026-08-24T13:37:33"
+    },
+    {
+      "user": "Enity",
+      "message": "ممنون",
+      "answer": "خواهش می‌کنم!",
+      "time": "2026-08-24T13:37:49"
+    },
+    {
+      "user": "Guest",
+      "message": "Hello",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T14:00:27"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "I don't know yet.",
+      "time": "2026-08-24T14:00:37"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-25T15:47:50"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "ممنون",
+      "answer": "خواهش می‌کنم!",
+      "time": "2026-08-25T15:48:06"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "راهنما",
+      "answer": "I don't know yet.",
+      "time": "2026-08-25T15:48:26"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "چی کار می‌کنی؟",
+      "answer": "I don't know yet.",
+      "time": "2026-08-25T15:48:45"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "چه کار می‌کنی؟",
+      "answer": "من Enity KoJ هستم و از سیستم پاسخ‌گویی تنظیم‌شده پروژه استفاده می‌کنم.",
+      "time": "2026-08-25T15:49:00"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "ثبت‌نام",
+      "answer": "I don't know yet.",
+      "time": "2026-08-25T15:49:33"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "Login",
+      "answer": "Login lets an existing Enity user enter the application.",
+      "time": "2026-08-25T15:49:44"
+    },
+    {
+      "user": "BanBan445M",
+      "message": "Signup",
+      "answer": "Sign up creates a new Enity user account.",
+      "time": "2026-08-25T15:50:03"
+    },
+    {
+      "user": "Guest",
+      "message": "سلام",
+      "answer": "سلام! من Enity هستم.",
+      "time": "2026-08-25T18:52:36"
+    }
+  ],
+  "Admin": {
+    "919f249d1eab449b938e74e3468fa3b2": {
+      "id": "919f249d1eab449b938e74e3468fa3b2",
+      "title": "سلام",
+      "messages": [
+        {
+          "role": "user",
+          "content": "سلام",
+          "time": "2026-08-23T10:07:00.101563+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "سلام! من Enity هستم.",
+          "time": "2026-08-23T10:07:00.101563+00:00"
+        }
+      ]
+    },
+    "c98e541d38294d459ce733e1e2a68ce1": {
+      "id": "c98e541d38294d459ce733e1e2a68ce1",
+      "title": "سلام",
+      "messages": [
+        {
+          "role": "user",
+          "content": "سلام",
+          "time": "2026-08-23T10:07:08.230652+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "سلام! من Enity هستم.",
+          "time": "2026-08-23T10:07:08.230652+00:00"
+        }
+      ]
+    },
+    "a8ef8942e5044671a5da7ce1daf0de1a": {
+      "id": "a8ef8942e5044671a5da7ce1daf0de1a",
+      "title": "سلام",
+      "messages": [
+        {
+          "role": "user",
+          "content": "سلام",
+          "time": "2026-08-23T10:07:14.055883+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "سلام! من Enity هستم.",
+          "time": "2026-08-23T10:07:14.055883+00:00"
+        }
+      ]
+    },
+    "76cd070758544481a91c297a28f2e03b": {
+      "id": "76cd070758544481a91c297a28f2e03b",
+      "title": "سلام",
+      "messages": [
+        {
+          "role": "user",
+          "content": "سلام",
+          "time": "2026-08-23T10:08:19.816530+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "سلام! من Enity هستم.",
+          "time": "2026-08-23T10:08:19.816530+00:00"
+        }
+      ]
+    },
+    "9cadc510d1d541679cef96f0f08e1a92": {
+      "id": "9cadc510d1d541679cef96f0f08e1a92",
+      "title": "Hwllo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hwllo",
+          "time": "2026-08-23T10:08:23.302112+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm Enity KoJ. I don't have a configured answer for that yet.",
+          "time": "2026-08-23T10:08:23.302112+00:00"
+        }
+      ]
+    },
+    "551304d23e6c4632b63bf53de120aaf3": {
+      "id": "551304d23e6c4632b63bf53de120aaf3",
+      "title": "Hello",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hello",
+          "time": "2026-08-23T10:08:26.202502+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello I'm Enity",
+          "time": "2026-08-23T10:08:26.202502+00:00"
+        }
+      ]
+    },
+    "26fc0cb5f89f45a587e2340890cc643c": {
+      "id": "26fc0cb5f89f45a587e2340890cc643c",
+      "title": "سلام",
+      "messages": [
+        {
+          "role": "user",
+          "content": "سلام",
+          "time": "2026-08-23T10:10:31.997096+00:00"
+        },
+        {
+          "role": "assistant",
+          "content": "سلام! من Enity هستم.",
+          "time": "2026-08-23T10:10:31.997096+00:00"
+        }
+      ]
+    }
+  }
+}

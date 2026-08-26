@@ -1,0 +1,7 @@
+[200] http://localhost:22533/builder
+[200] http://localhost:22533/dl
+[200] http://localhost:22533/login
+[200] http://localhost:22533/Login
+[200] http://localhost:22533/logout
+[200] http://localhost:22533/logs
+[200] http://localhost:22533/Logs
