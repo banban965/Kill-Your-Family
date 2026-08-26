@@ -120,7 +120,7 @@ sp(Fore.GREEN + "9.Subscribe GitHub")
 sp(Fore.RED + "10.Exit")
 sp('╔══════════════════════════════════════╗')
 sp('╚══════════════════════════════════════╝')
-UserSelect = si(Fore.YELLOW + "ẞelect Ñumbers : ")
+User = si(Fore.YELLOW + "ẞelect Ñumbers : ")
 os.system('cls')
 os.system('clear')
 
