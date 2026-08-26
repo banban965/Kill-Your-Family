@@ -1,68 +1,75 @@
 ⚡ KILL-YOUR-FAMILY
 
-<p align="center">A Powerful Python Toolkit for Termux
-
-""Python" (https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)" (https://www.python.org/)
-""Termux" (https://img.shields.io/badge/Termux-Android-green?style=for-the-badge)" (https://termux.dev/)
-""GitHub" (https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)" (https://github.com/banban965/Kill-Your-Family)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/KILL--YOUR--FAMILY-Termux%20Toolkit-black?style=for-the-badge" alt="Kill Your Family">
+</p><p align="center">
+  <b>⚡ A Powerful Python Toolkit for Termux ⚡</b>
+</p><p align="center">
+  <a href="https://github.com/banban965/Kill-Your-Family">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-Termux-000000?style=for-the-badge&logo=android" alt="Termux">
+  <img src="https://img.shields.io/github/stars/banban965/Kill-Your-Family?style=for-the-badge" alt="Stars">
 </p>---
 
-🚀 About
+📖 About
 
-Kill-Your-Family یک پروژه Python برای اجرای مجموعه‌ای از ابزارها و قابلیت‌های مختلف در محیط Termux است.
+KILL-YOUR-FAMILY یک Toolkit مبتنی بر Python برای محیط Termux است.
 
-این پروژه با هدف ایجاد یک محیط یکپارچه و ساده برای اجرای ابزارهای مختلف از طریق یک منوی ترمینالی طراحی شده است.
+هدف پروژه ایجاد یک محیط ساده، سریع و قابل توسعه برای اجرای ابزارها و اسکریپت‌های مختلف از طریق یک رابط ترمینالی است.
 
-«⚠️ این پروژه فقط برای استفاده آموزشی، آزمایش روی سیستم‌های خودتان و یادگیری برنامه‌نویسی و امنیت طراحی شده است.»
+«⚠️ هشدار: ابزارها را فقط روی دستگاه‌ها، حساب‌ها و شبکه‌هایی اجرا کنید که مالک آن‌ها هستید یا اجازه آزمایش روی آن‌ها را دارید.»
 
 ---
 
 ✨ Features
 
-- ⚡ اجرای سریع از داخل Termux
+- ⚡ اجرای سریع در Termux
 - 🐍 ساخته‌شده با Python
-- 📱 مناسب برای Android + Termux
-- 🎨 رابط کاربری ترمینالی
-- 🧰 پشتیبانی از ابزارهای مختلف
-- 📂 ساختار ماژولار
-- 🔧 قابلیت اضافه‌کردن ابزارهای جدید
-- 🚀 اجرای ساده با یک دستور
-- 🛠️ مناسب برای توسعه و شخصی‌سازی
+- 📱 مناسب برای Android
+- 🖥️ رابط کاربری ترمینالی
+- 🧰 قابلیت اضافه‌کردن ابزارهای مختلف
+- 📂 ساختار قابل توسعه
+- 🔧 امکان شخصی‌سازی
+- 🚀 نصب و اجرای ساده
+- 📦 مدیریت پروژه با Git
 
 ---
 
-📥 Installation
+📱 Requirements
 
-1️⃣ نصب Git
+قبل از نصب، موارد زیر را داشته باشید:
 
-ابتدا Termux را باز کنید و Git را نصب کنید:
+نیازمندی| توضیح
+Android| دستگاه Android
+Termux| محیط اجرای پروژه
+Python 3| اجرای برنامه
+Git| دانلود پروژه
+Internet| دریافت Repository
+
+---
+
+🚀 Installation
+
+1. Update Termux
 
 pkg update -y
 pkg upgrade -y
+
+2. Install Git
+
 pkg install git -y
 
----
-
-2️⃣ نصب Python
+3. Install Python
 
 pkg install python -y
 
-بررسی نصب:
-
-python --version
-
----
-
-3️⃣ دریافت پروژه
-
-Repository را Clone کنید:
+4. Clone Repository
 
 git clone https://github.com/banban965/Kill-Your-Family.git
 
----
-
-4️⃣ ورود به پوشه پروژه
+5. Enter Directory
 
 cd Kill-Your-Family
 
@@ -74,7 +81,7 @@ cd Kill-Your-Family
 
 python Ban.py
 
-یا در بعضی محیط‌ها:
+اگر سیستم شما دستور "python3" را استفاده می‌کند:
 
 python3 Ban.py
 
@@ -82,17 +89,21 @@ python3 Ban.py
 
 ⚡ Quick Start
 
-اگر Git و Python از قبل نصب هستند، فقط:
+اگر Git و Python را از قبل نصب کرده‌اید:
 
 git clone https://github.com/banban965/Kill-Your-Family.git
 cd Kill-Your-Family
 python Ban.py
 
+One-Line
+
+git clone https://github.com/banban965/Kill-Your-Family.git && cd Kill-Your-Family && python Ban.py
+
 ---
 
 📂 Project Structure
 
-ساختار پروژه می‌تواند به شکل زیر باشد:
+ساختار پروژه می‌تواند مشابه زیر باشد:
 
 Kill-Your-Family/
 │
@@ -100,9 +111,9 @@ Kill-Your-Family/
 ├── README.md
 │
 ├── Tools/
-│   ├── ...
-│   ├── ...
-│   └── ...
+│   ├── Tool-1/
+│   ├── Tool-2/
+│   └── Tool-3/
 │
 ├── Data/
 │   └── ...
@@ -111,34 +122,25 @@ Kill-Your-Family/
 
 ---
 
-🧩 Requirements
+📦 Dependencies
 
-پیش‌نیازهای اصلی:
-
-Requirement| توضیح
-Android| اجرای پروژه روی Android
-Termux| محیط اجرای ترمینال
-Python 3| اجرای کدهای Python
-Git| دریافت و بروزرسانی پروژه
-Internet| دریافت Repository و وابستگی‌ها
-
----
-
-🔧 Optional Dependencies
-
-اگر پروژه دارای "requirements.txt" باشد:
+اگر پروژه دارای فایل "requirements.txt" است:
 
 pip install -r requirements.txt
 
-اگر خطای دسترسی دریافت کردید:
+برای بررسی Python:
 
-pip install --user -r requirements.txt
+python --version
+
+برای بررسی Git:
+
+git --version
 
 ---
 
 🔄 Update
 
-برای دریافت آخرین تغییرات پروژه:
+برای دریافت آخرین نسخه:
 
 cd Kill-Your-Family
 git pull
@@ -151,89 +153,58 @@ python Ban.py
 
 🛠️ Troubleshooting
 
-❌ Python پیدا نمی‌شود
+"python: command not found"
 
-اگر با خطایی مانند:
-
-python: command not found
-
-مواجه شدید:
+Python را نصب کنید:
 
 pkg install python -y
 
 ---
 
-❌ Git پیدا نمی‌شود
+"git: command not found"
+
+Git را نصب کنید:
 
 pkg install git -y
 
 ---
 
-❌ وارد پوشه پروژه نمی‌شوید
+"No such file or directory"
 
-بررسی کنید پروژه در Home قرار دارد:
-
-ls
-
-سپس:
+مطمئن شوید داخل پوشه پروژه هستید:
 
 cd Kill-Your-Family
+ls
+
+باید فایل "Ban.py" را ببینید.
 
 ---
 
-❌ فایل Ban.py پیدا نمی‌شود
-
-بررسی کنید فایل وجود دارد:
-
-ls
-
-یا:
+بررسی وجود Ban.py
 
 find . -name "Ban.py"
 
-اگر فایل داخل پوشه دیگری بود، وارد همان پوشه شوید.
+---
+
+🧪 Check Project
+
+برای بررسی وضعیت Repository:
+
+git status
+
+برای مشاهده فایل‌ها:
+
+ls -la
+
+برای مشاهده Branch:
+
+git branch
 
 ---
 
-🧪 Check Installation
+👨‍💻 Development
 
-برای بررسی سریع:
-
-git --version
-python --version
-
-سپس:
-
-cd Kill-Your-Family
-ls
-
-و:
-
-python Ban.py
-
----
-
-🔐 Security & Responsible Use
-
-این پروژه باید فقط روی سیستم‌ها، دستگاه‌ها، شبکه‌ها و حساب‌هایی استفاده شود که اجازه آزمایش آن‌ها را دارید.
-
-از ابزارها برای:
-
-- دسترسی غیرمجاز
-- سرقت اطلاعات
-- آسیب‌زدن به دستگاه دیگران
-- دورزدن دسترسی‌ها
-- اختلال در سرویس‌ها
-
-استفاده نکنید.
-
-استفاده مسئولانه از ابزارهای امنیتی بخش مهمی از یادگیری Cyber Security است.
-
----
-
-🧑‍💻 Development
-
-برای توسعه پروژه:
+برای توسعه پروژه ابتدا Repository را دریافت کنید:
 
 git clone https://github.com/banban965/Kill-Your-Family.git
 cd Kill-Your-Family
@@ -242,71 +213,81 @@ cd Kill-Your-Family
 
 git checkout -b feature/new-tool
 
-بعد از تغییرات:
+پس از اعمال تغییرات:
 
 git add .
-git commit -m "Add new feature"
 
-و سپس:
+سپس:
+
+git commit -m "Add new tool"
+
+و در نهایت:
 
 git push origin feature/new-tool
 
 ---
 
-📌 Useful Commands
+🔧 Useful Git Commands
 
-مشاهده فایل‌ها
-
-ls
-
-مشاهده مسیر فعلی
-
-pwd
-
-ورود به پروژه
-
-cd Kill-Your-Family
-
-اجرای پروژه
-
-python Ban.py
-
-بروزرسانی
-
-git pull
-
-مشاهده وضعیت Git
+وضعیت Repository
 
 git status
 
+مشاهده Commitها
+
+git log --oneline
+
+دریافت تغییرات
+
+git pull
+
+مشاهده Remote
+
+git remote -v
+
+مشاهده Branchها
+
+git branch -a
+
 ---
 
-🌟 GitHub
+🛡️ Responsible Use
 
-Repository:
+این پروژه برای یادگیری، توسعه و آزمایش مجاز ساخته شده است.
 
-https://github.com/banban965/Kill-Your-Family
+استفاده از ابزارها علیه سیستم‌ها یا حساب‌هایی که اجازه آزمایش آن‌ها را ندارید می‌تواند غیرقانونی باشد.
 
-اگر پروژه را مفید می‌دانید، می‌توانید Repository را ⭐ Star کنید و برای بهبود آن Pull Request ارسال کنید.
+همیشه قبل از اجرای یک ابزار، عملکرد و مجوزهای موردنیاز آن را بررسی کنید.
+
+---
+
+🌐 Repository
+
+<p align="center"><a href="https://github.com/banban965/Kill-Your-Family">
+  <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a></p>---
+
+⭐ Support
+
+اگر پروژه برای شما مفید است، می‌توانید Repository را در GitHub ⭐ Star کنید.
+
+همچنین می‌توانید برای بهبود پروژه:
+
+- 🐛 گزارش Bug ارسال کنید
+- 💡 پیشنهاد جدید ارائه دهید
+- 🔧 قابلیت جدید اضافه کنید
+- 🔀 Pull Request ارسال کنید
 
 ---
 
 📜 License
 
-قبل از استفاده یا انتشار مجدد، License موجود در Repository را بررسی کنید.
+قبل از کپی، تغییر یا انتشار مجدد پروژه، فایل License موجود در Repository را بررسی کنید.
 
 ---
 
-⚡ One-Line Start
+<p align="center">⚡ KILL-YOUR-FAMILY ⚡
 
-اگر Git و Python نصب هستند:
+<br><sub>Python • Termux • GitHub</sub>
 
-git clone https://github.com/banban965/Kill-Your-Family.git && cd Kill-Your-Family && python Ban.py
-
----
-
-<div align="center">⚡ KILL-YOUR-FAMILY ⚡
-
-Built for Termux • Built with Python • Built for Learning
-
-</div>
+</p>
