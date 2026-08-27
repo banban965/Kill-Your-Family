@@ -289,7 +289,7 @@ Enity-KoJ DataBase.json
 
 دیتا بیس انیتی رو باید دستی اضافه کنید به فایل 
 Path : /KillYourFamily/Tools/Enity-KoJ/DataBase.json
-Test '''Hello:Hello I'm Enity
+Test '''Hello:Hello I'm Enity'''
 ---
 <p align="center">⚡ KILL-YOUR-FAMILY ⚡
 
